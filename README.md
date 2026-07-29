@@ -1,7 +1,7 @@
 # genMacro
 making macro for games
 
-**update patch notice**<br />
+**update patch notice 2.3**<br />
 실행할 키와 작동 단축키를 설정 가능하게 수정했습니다.<br />
         
 동작 모드로 홀드 기능을 추가했습니다.<br />
@@ -10,3 +10,12 @@ making macro for games
         
 키 입력 간격과 랜덤 지연을 적용할지 선택할 수 있습니다.<br />
         
+**update patch notice 3.0**<br />
+
+    창 축소/확장 기능을 추가했습니다. <br />
+    키 설정 변경사항을 저장할 수 있습니다. <br />
+
+**주의사항**
+
+    json 파일을 exe 파일과 같은 경로에 두십시오. <br />
+    종료 시 창 종료 버튼을 눌러 종료해야 설정이 저장됩니다. <br />
